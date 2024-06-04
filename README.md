@@ -1,1 +1,1 @@
-# docs
+# strike-finance-docs
