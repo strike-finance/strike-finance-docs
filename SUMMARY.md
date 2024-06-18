@@ -1,10 +1,8 @@
 # Table of contents
 
-* [Page](README.md)
-
 ## Getting Started
 
-* [Introduction](getting-started/introduction.md)
+* [Introduction](README.md)
 
 ## Derivative Products
 
