@@ -1,1 +1,2 @@
-# strike-finance-docs
+# Strike Finance
+
