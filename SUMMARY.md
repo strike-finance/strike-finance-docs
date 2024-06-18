@@ -1,10 +1,25 @@
 # Table of contents
 
-* [Strike Finance](README.md)
+* [Page](README.md)
 
-## Derivatives Contracts
+## Getting Started
 
-* [Perpetuals Contract](derivatives-contracts/perpetuals-contract.md)
-* [Fowards Contract](derivatives-contracts/fowards-contract/README.md)
-  * [Page 4](derivatives-contracts/fowards-contract/page-4.md)
-* [Options Contract](derivatives-contracts/options-contract.md)
+* [Introduction](getting-started/introduction.md)
+
+## Derivative Products
+
+* [Options Contract](derivative-products/options-contract.md)
+* [Perpetuals Contract](derivative-products/perpetuals-contract.md)
+* [Fowards Contract](derivative-products/fowards-contract/README.md)
+  * [Page 4](derivative-products/fowards-contract/page-4.md)
+
+## Features
+
+* [Seamless Settlements](features/seamless-settlements.md)
+* [Cross-Chain Support](features/cross-chain-support.md)
+
+## Links
+
+* [Social Media](links/social-media.md)
+* [GitHub](links/github.md)
+* [Whitepaper](links/whitepaper.md)
