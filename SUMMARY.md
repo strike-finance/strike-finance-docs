@@ -1,6 +1,10 @@
 # Table of contents
 
 * [Strike Finance](README.md)
-* [Page 1](page-1.md)
-* [Page 2](page-2.md)
-* [Page 3](page-3.md)
+
+## Derivatives Contracts
+
+* [Perpetuals Contract](derivatives-contracts/perpetuals-contract.md)
+* [Fowards Contract](derivatives-contracts/fowards-contract/README.md)
+  * [Page 4](derivatives-contracts/fowards-contract/page-4.md)
+* [Options Contract](derivatives-contracts/options-contract.md)
