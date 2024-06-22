@@ -7,14 +7,12 @@
 ## Derivative Products
 
 * [Options Contract](derivative-products/options-contract.md)
-* [Perpetuals Contract](derivative-products/perpetuals-contract.md)
-* [Fowards Contract](derivative-products/fowards-contract/README.md)
-  * [Page 4](derivative-products/fowards-contract/page-4.md)
+* [Fowards Contract](derivative-products/fowards-contract.md)
+* [Directionals Contract](derivative-products/directionals-contract.md)
 
-## Features
+## Additional Features
 
-* [Seamless Settlements](features/seamless-settlements.md)
-* [Cross-Chain Support](features/cross-chain-support.md)
+* [Seamless Settlements](additional-features/seamless-settlements.md)
 
 ## Links
 
