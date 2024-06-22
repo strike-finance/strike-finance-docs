@@ -6,9 +6,10 @@
 
 ## Derivative Products
 
-* [Options Contract](derivative-products/options-contract/README.md)
+* [Options Contract](derivative-products/options-contract.md)
   * [Options On Strike Finance](derivative-products/options-contract/options-on-strike-finance.md)
-* [Fowards Contract](derivative-products/fowards-contract.md)
+* [Forwards Contract](derivative-products/forwards-contract/README.md)
+  * [Forwards On Strike Finance](derivative-products/forwards-contract/forwards-on-strike-finance.md)
 * [Directionals Contract](derivative-products/directionals-contract.md)
 
 ## Additional Features
