@@ -4,14 +4,15 @@
 
 ### Create Forwards Contract&#x20;
 
-To create a forwards contract on strike you must first lock assets you want to swap from into the platform. If no one has picked it up you can cancel the forwards contract anytime and get your assets back.&#x20;
+* **Specify Contract Details**: Indicate the date for the swap, the asset and amount you are selling, and the asset and amount you are selling for.
+* **Lock Assets**: You must lock the assets you intend to sell into the platform.
+* **Cancellation**: If no one picks up your contract, you have the option to cancel it at any time and retrieve your locked assets.
 
 ### Enter Forwards Contract&#x20;
 
-When you enter a forwards contrac you will lock the assets you agree to swap from into the platform. Both assets will be locked on the platform until the settlement date.
-
-
+* **Lock Assets**: Based on the requirements of the forward contract you are entering, you will lock up the assets and amount that you will be swapping from.&#x20;
+* **Cancellation**: There are no ways to cancel the forward contract once both parties have agreed on it&#x20;
 
 ### Settlement
 
-After the settlement date has been reached, you will be able to redeem your assets&#x20;
+Before the settlement date, no assets can be redeemed from the platform. After the settlement date has been reached, both parties will be able to redeem their assets.&#x20;
