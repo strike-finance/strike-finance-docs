@@ -1,14 +1,29 @@
 # Options On Strike Finance
 
-### Options Requirements
+{% file src="../../.gitbook/assets/2024-07-30 16.08.08.mp4" %}
 
-Options on Strike Finance must involve a stablecoin on at least one side of the contract. For put options, the assets must be bought with a stablecoin, while for call options, the assets must be sold for stablecoins. Having two volatile assets makes it difficult for traders to decide whether to enter a contract.
+Options contracts on Strike Finance are created by traders and can be bought and resold continuously.&#x20;
 
-### Marketplace
+### Issuers
 
-Strike Finance allows you to create an option and sell it to other traders. Based on the option you choose, you will need to lock up the assets on the platform. You can cancel your option and get your assets back if nobody has bought it. However, if someone has bought your option, your asset cannot be retrieved. After the option has expired and the current holder has not exercised it, you can get your assets back.
+Traders buy call options if they expect an asset's price to rise, and put options if they expect it to fall. Option issuers take the opposite position. If an issuer expects an asset's price to rise, they will issue a put option. The rationale is that if the asset's value increases, put option buyers are unlikely to exercise the contract as it would be unprofitable. This allows the issuer to sell option contracts without giving up their assets.
 
-Typical traders will buy a call option when they think an asset will go up and a put option when they think an asset will go down. Someone creating an option will do the opposite.
+### Commissions
 
-If the issuer of the option thinks an asset will go up in value, they will create a put option. If their assumptions are correct, they will be able to sell the options at a high price while getting all of their assets back. The holder, thinking the options will go down, was wrong, and therefore it would be unprofitable for them to exercise the option.
+The issuer of an option contract can set a commission on the contract they created. This commission allows the issuer to earn a percentage of the sale price each time the contract is bought or traded. This creates an ongoing revenue stream for the issuer, even after the initial sale of the contract. Importantly, even if the option contract becomes profitable for the holder when executed, the potential loss for the issuer can be offset by the commission. This mechanism helps balance the risk and reward for option issuers.
+
+### Stablecoins
+
+All options on Strike Finance must involve a stablecoin on at least one side of the contract:
+
+* For put options, assets must be bought with a stablecoin.
+* For call options, assets must be sold for stablecoins.
+
+Using stablecoins as the base currency for these contracts helps reduce overall volatility. Without a stablecoin component, both sides of the contract would be subject to price fluctuations, making it more difficult for traders to assess risk and potential returns.
+
+### Bids
+
+Traders can place bids on available contracts if they believe the current asking price is too high.
+
+
 
