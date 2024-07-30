@@ -4,17 +4,13 @@
 
 * [Introduction](README.md)
 
-## Derivative Products
+## Products
 
-* [Options Contract](derivative-products/options-contract.md)
-  * [Options On Strike Finance](derivative-products/options-contract/options-on-strike-finance.md)
-* [Forwards Contract](derivative-products/forwards-contract/README.md)
-  * [Forwards On Strike Finance](derivative-products/forwards-contract/forwards-on-strike-finance.md)
-* [Directionals Contract](derivative-products/directionals-contract.md)
-
-## Additional Features
-
-* [Seamless Settlements](additional-features/seamless-settlements.md)
+* [Options Contract](products/options-contract/README.md)
+  * [Options On Strike Finance](products/options-contract/options-on-strike-finance.md)
+* [Forwards Contract](products/forwards-contract/README.md)
+  * [Forwards On Strike Finance](products/forwards-contract/forwards-on-strike-finance.md)
+* [Perpetuals Contract](products/perpetuals-contract.md)
 
 ## Links
 
