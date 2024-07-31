@@ -1,2 +1,0 @@
-# Perpetual  On Strike
-
