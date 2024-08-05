@@ -1,5 +1,9 @@
 # Forwards Contract
 
+{% embed url="https://youtu.be/l7Qaizf4NtI" %}
+Forward Contract Demo
+{% endembed %}
+
 A forward contract is a binding agreement in which two parties agree to exchange specific assets on a future date at a price established when forming the contract.
 
 ### Binding Agreement
@@ -32,6 +36,3 @@ Unlike option contracts, where exercising the contract is optional, a forward co
 * **Risk Management**:
   * Long Position: Used to secure the future purchase price of an asset expected to increase in value
   * Short Position: Used to lock in a selling price for an asset in the future
-
-
-

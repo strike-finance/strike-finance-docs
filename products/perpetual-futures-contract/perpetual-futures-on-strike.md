@@ -9,10 +9,10 @@ The main benefits of perpetual contracts are still present:
 
 ### Funding Periods
 
-Funding rounds occur at 8-hour intervals to determine profits for traders. At the start of each round, an oracle provides the asset's current price. After 8 hours, the asset's price is recorded again. The price movement during this interval determines which side profits:
+Funding rounds occur at 4-hour intervals to determine profits for traders. At the start of each round, an oracle provides the asset's current price. After 4 hours, the asset's price is recorded again. The price movement during this interval determines which side profits:
 
-* If the price increases between the start of the funding round and 8 hours later, the long side gains.
-* If the price decreases between the start of the funding round and 8 hours later, the short side gains.
+* If the price increases between the start of the funding round and 4 hours later, the long side gains.
+* If the price decreases between the start of the funding round and 4 hours later, the short side gains.
 
 The profit is calculated based on the percentage difference between the entry and exit prices. The losing side pays this percentage to the winning side. Individual traders on the winning side receive a portion of the total profit, proportional to their share of the total asset amount on that side. For example, if a trader holds 10% of the total long position and the long side wins, they would receive 10% of the total profit distributed to longs.
 

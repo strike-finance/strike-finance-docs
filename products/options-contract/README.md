@@ -1,5 +1,9 @@
 # Options Contract
 
+{% embed url="https://youtu.be/qo4NNxbN4ZM" %}
+Options Contract Demo
+{% endembed %}
+
 An option contract gives the holder the right to buy or sell an asset at a predetermined price before a certain date. In an options contract, there are puts and call options. A put option allows the holder to sell an asset at a specific price and a call option allows the holder to buy an asset at a specific price. Traders will buy put options when they anticipate an asset will decline in value and traders will buy call options when they anticipate an asset rise in value.
 
 ### Call Option
