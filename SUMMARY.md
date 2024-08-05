@@ -11,11 +11,7 @@
 * [Forwards Contract](products/forwards-contract/README.md)
   * [Forwards On Strike Finance](products/forwards-contract/forwards-on-strike-finance.md)
 * [Perpetual Futures Contract](products/perpetual-futures-contract/README.md)
-  * [Perpetual Futures  On Strike](products/perpetual-futures-contract/perpetual-futures-on-strike.md)
-
-***
-
-* [Social Media](social-media.md)
+  * [Perpetual Futures On Strike](products/perpetual-futures-contract/perpetual-futures-on-strike.md)
 
 ## 中文产品翻译
 
@@ -26,3 +22,7 @@
   * [Strike Finance 上的远期合约](zhong-wen-chan-pin-fan-yi/yuan-qi-he-yue/strike-finance-shang-de-yuan-qi-he-yue.md)
 * [永续期货合约](zhong-wen-chan-pin-fan-yi/yong-xu-qi-huo-he-yue/README.md)
   * [Strike Finance 上的永续合约](zhong-wen-chan-pin-fan-yi/yong-xu-qi-huo-he-yue/strike-finance-shang-de-yong-xu-he-yue.md)
+
+## Links
+
+* [Social Media](links/social-media.md)
