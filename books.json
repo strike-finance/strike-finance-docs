@@ -1,0 +1,11 @@
+{
+  "plugins": ["insert-logo-link-style"],
+  "pluginsConfig": {
+    "insert-logo-link-style": {
+      "src": "./logo.png",
+      "style": "background: none;",
+      "link": "https://www.strikefinance.org",
+      "target": "_blank"
+    }
+  }
+}
