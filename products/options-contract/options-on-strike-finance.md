@@ -1,6 +1,6 @@
 # Options On Strike Finance
 
-Options contracts on Strike Finance are created by traders and can be bought and resold continuously.&#x20;
+Options on Strike Finance will be American Options. Options contracts on Strike Finance are created by traders and can be bought and resold continuously.&#x20;
 
 ### Option Issuers
 
