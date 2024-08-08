@@ -1,4 +1,4 @@
-# Perpetual Futures  On Strike
+# Perpetual Futures On Strike
 
 Perpetual futures on Strike Finance have a few differences from traditional perpetual futures. There is no perpetual contract price; instead, there are entry prices.
 
@@ -28,4 +28,4 @@ If after the funding round ends, the total value of the position drops 20% to 32
 
 **20ADA = 320 ADA - 300 ADA**&#x20;
 
-A minimum of 15% equity is required to maintain the position, which in this case is 48 ADA. Since the current equity (20 ADA) is below this threshold, the trader's position will be liquidated. This scenario demonstrates how market movements can quickly affect a leveraged position, potentially leading to liquidation if the equity falls below the minimum requirement.
+A minimum of 15% equity is required to maintain the position, which in this case is 48 ADA. Since the current equity (20 ADA) is below this threshold, the trader's position will be liquidated.&#x20;
